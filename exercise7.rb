@@ -1,0 +1,1 @@
+puts "An array is an ordered list of items, while a hash contains sets of key:value pairs"
